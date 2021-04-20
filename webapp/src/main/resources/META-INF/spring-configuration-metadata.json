@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "webapp.apiUrl",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "webapp.numero",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
